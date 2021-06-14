@@ -34,3 +34,7 @@ https://developers.giphy.com/
 https://app.netlify.com
 
 https://quicktype.io/
+
+https://animate.style/
+
+https://keen-fermi-845b97.netlify.app/
